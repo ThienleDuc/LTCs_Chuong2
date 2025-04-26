@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeDucThien_138_BaiTapWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d466e861b7e40e1cefc90740bf5e0f2f4455b91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d787fb1c19eec202c9b1b3b50b48f9723eb3aeb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeDucThien_138_BaiTapWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeDucThien_138_BaiTapWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
