@@ -1,0 +1,27 @@
+﻿<div class="flex-column h-100 w-100">
+    <a class="navbar-brand" href="#">Quản lý Sinh viên</a>
+
+    <!-- Nút toggle cho mobile -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu"
+            aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Danh sách menu -->
+    <div class="collapse navbar-collapse" id="navbarMenu">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 flex-column w-100">
+            <li class="nav-item border-bottom">
+                <a class="nav-link @(ViewBag.flagActive == "SinhVien" ? "active" : "")" href="@Url.Action("Index", "Home")">Sinh viên</a>
+            </li>
+            <li class="nav-item border-bottom">
+                <a class="nav-link @(ViewBag.flagActive == "LSH" ? "active" : "")" href="@Url.Action("LopSinhHoat", "Home")">Lớp sinh hoạt</a>
+            </li>
+            <li class="nav-item border-bottom">
+                <a class="nav-link @(ViewBag.flagActive == "LSHSV" ? "active" : "")" href="@Url.Action("LopSinhHoatSinhVien", "Home")">Lớp sinh hoạt sinh viên</a>
+            </li>
+            <li class="nav-item border-bottom">
+                <a class="nav-link @(ViewBag.flagActive == "GiaoVien" ? "active" : "")" href="@Url.Action("GiaoVien", "Home")">Giáo viên</a>
+            </li>
+        </ul>
+    </div>
+</div>
