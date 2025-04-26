@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LeDucThien_138_BaiTapWeb
+build_property.RootNamespace = LeDucThien_138_BaiTapWeb
+build_property.ProjectDir = D:\WORKSPACE\THLTCs\LTCs_Chuong2\LeDucThien_138_BaiTapWeb\LeDucThien_138_BaiTapWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WORKSPACE\THLTCs\LTCs_Chuong2\LeDucThien_138_BaiTapWeb\LeDucThien_138_BaiTapWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/GiaoVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWFvVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/LopSinhHoat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb3BTaW5oSG9hdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/LopSinhHoatSinhVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb3BTaW5oSG9hdFNpbmhWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/SuaSinhVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWFTaW5oVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/ThemGiaoVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGVtR2lhb1ZpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/ThemSinhVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGVtU2luaFZpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Home/TimKiemSinhVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW1LaWVtU2luaFZpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Shared/_LayoutProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Shared/_navbar-menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZiYXItbWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WORKSPACE/THLTCs/LTCs_Chuong2/LeDucThien_138_BaiTapWeb/LeDucThien_138_BaiTapWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

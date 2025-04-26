@@ -1,0 +1,60 @@
+﻿@model List<LeDucThien_138_BaiTapWeb.Models.LopSinhHoat>
+@{
+    ViewData["Title"] = "Lớp sinh hoạt";
+    Layout = "~/Views/Shared/_LayoutProject.cshtml";
+    ViewBag.flagActive = "LSH";
+}
+
+<div class="container mt-5">
+    <div class="row mb-3">
+        <div class="col-4">
+            <input type="text" class="form-control" placeholder="Tìm kiếm tên lớp sinh hoạt...">
+        </div>
+        <div class="col text-right">
+            <button class="btn btn-success">+ Thêm lớp sinh hoạt</button>
+        </div>
+    </div>
+    <h2>Bảng Lớp Sinh Hoạt</h2>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-truncate">Mã lớp</th>
+                    <th class="text-truncate">Tên lớp</th>
+                    <th class="text-truncate">Mã ngành</th>
+                    <th class="text-truncate">Sĩ số</th>
+                    <th class="text-truncate">Mã khoa</th>
+                    <th class="text-truncate">Mã GV</th>
+                    <th class="text-truncate">Họ tên</th>
+                    <th class="text-truncate">Khóa học</th>
+                    <th class="text-truncate">Ghi chú</th>
+                    <th class="text-truncate">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var lsh in Model)
+                {
+                    <tr>
+                        <td class="text-truncate">@lsh.MaLSH</td>
+                        <td class="text-truncate">@lsh.TenLSH</td>
+                        <td class="text-truncate">@lsh.MaNganh</td>
+                        <td class="text-truncate">@lsh.SiSo</td>
+                        <td class="text-truncate">@lsh.MaKhoa</td>
+                        <td class="text-truncate">@lsh.MaGVCN</td>
+                        <td class="text-truncate">@lsh.HoTen</td>
+                        <td class="text-truncate">@lsh.KhoaHoc</td>
+                        <td class="text-truncate" title="@lsh.GhiChu">
+                            @(lsh.GhiChu != null && lsh.GhiChu.Length > 20
+                                ? lsh.GhiChu.Substring(0, 20) + "..."
+                                : lsh.GhiChu)
+                        </td>
+                        <td class="text-truncate">
+                            <button class="btn btn-warning btn-sm">Sửa</button>
+                            <button class="btn btn-danger btn-sm">Xóa</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

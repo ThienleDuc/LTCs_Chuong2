@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\QuanLySinhVien_Web.props" />
-</Project>
